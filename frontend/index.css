@@ -12,3 +12,21 @@ h1{
 #p2{
     color : rgb(22, 174, 70);
 }
+.nav {
+    text-align: center;
+    padding: 15px;
+    background-color: navy;
+    margin-bottom: 12px;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.nav a:hover {
+    color: rgb(232, 225, 225);
+}
