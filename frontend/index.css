@@ -30,3 +30,21 @@ h1{
 .nav a:hover {
     color: rgb(232, 225, 225);
 }
+#card {
+    width: 700px;
+    padding: 20px;
+    margin: 30px auto;
+    text-align: center;
+    
+}
+
+#img img {
+    width: 400px;
+    height: 400px;
+}
+
+#name, gender , button{
+    text-align: center;
+    font-size: 30px;
+}
+
