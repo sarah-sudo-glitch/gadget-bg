@@ -1,1 +1,3 @@
-# auto_sug
+# gadget-bg
+
+# This is my main repo for project
