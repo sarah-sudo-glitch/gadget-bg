@@ -1,0 +1,17 @@
+.search{
+    text-align: center;
+    margin-top: 0;
+    padding: 2px;
+
+}
+#clock{
+    display: flex;
+   justify-content: flex-end;
+   margin-top: 0%;
+   
+}
+#gear{
+    position: fixed;
+    top: 0px;
+    left: 20px;
+}
