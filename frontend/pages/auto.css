@@ -32,7 +32,13 @@
     width: 38%;
 }
 #suggbox{
-    border: 1px solid black;
+   border: 1px solid black;
     width: 42%;
     margin-left: 30%;
+    right: 20px;
+}
+#sugg-item{
+    
+    padding: auto;
+    font-size: medium;
 }
