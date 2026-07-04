@@ -4,14 +4,35 @@
     padding: 2px;
 
 }
-#clock{
+.clock{
     display: flex;
    justify-content: flex-end;
    margin-top: 0%;
    
 }
-#gear{
+.gear{
     position: fixed;
     top: 0px;
     left: 20px;
+}
+.p1{
+    color: rgb(192, 192, 193);
+}
+.fn{
+    color: rgb(15, 234, 143);
+}
+.lens{
+    position: relative;
+    left: 40px;
+    top:2px;
+}
+.input{
+    padding: 15px 15px 15px 45px;
+    border-radius: 35px;
+    width: 38%;
+}
+#suggbox{
+    border: 1px solid black;
+    width: 42%;
+    margin-left: 30%;
 }
